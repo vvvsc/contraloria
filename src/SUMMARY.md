@@ -14,7 +14,7 @@
 
 # Datos
 
-- [Transferencias](datos/transferencias)
+- [Transferencias](datos/transferencias.md)
 
 # Links
 
