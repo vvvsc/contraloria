@@ -1,19 +1,22 @@
-# Sumario[^1]
+# Sumario
 
 [Sumario](SUMMARY.md)
 
 # Antecedentes
 
-- [Sentencia](Antecedentes/sentencia.md)
-- [Resistencia](Antecedentes/resistencia.md)
+- [Sentencia](antecedentes/sentencia.md)
+- [Resistencia](antecedentes/resistencia.md)
 
 # Informe
 
-- [Respuesta del MEF](Informe/informe.md)
-- [Contenido](Informe/contenido.md)
+- [Respuesta del MEF](informe/informe.md)
+- [Contenido](informe/contenido.md)
 
 # Datos
 
-- [Transferencias](Datos/transferencias)
+- [Transferencias](datos/transferencias)
 
-[^1]: Fork me on GitHub
+# Links
+
+- [Links](links/links.md)
+
