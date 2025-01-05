@@ -6,11 +6,10 @@ En la página del Ministestio de Economía y Finanzas Figura el monto transferid
 
 
 
-[https://datos.hacienda.gov.py/](https://datos.hacienda.gov.py/)
+https://datos.hacienda.gov.py/
 
 
-
-![screenshot](/home/pac/contraloria/src/img/screenshot.png)
+![screenshot](../img/screenshot.png)
 
 No se puede hacer un link a ese dato pero sí se puede consultar a la REST API
 
