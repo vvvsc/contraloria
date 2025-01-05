@@ -2,7 +2,7 @@
 
 En momento alguno la Gobernación de San Pedro mostró ninguna intención de cumplir con la orden.
 
-Los avatares del proceso se pueden consultar en http://villal.be.eu.org/rbraun/sp/
+Los avatares del proceso se pueden consultar en https://villal.be.eu.org/rbraun
 
 Pero hubieron mucha idas y vueltas hasta que la Institución informó de la siguiente manera:
 
