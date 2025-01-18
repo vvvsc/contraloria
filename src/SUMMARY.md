@@ -2,6 +2,8 @@
 
 [Sumario](SUMMARY.md)
 
+- [Info](info.md)
+
 # Antecedentes
 
 - [Sentencia](antecedentes/sentencia.md)
