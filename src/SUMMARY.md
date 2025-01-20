@@ -3,6 +3,7 @@
 [Sumario](SUMMARY.md)
 
 - [Info](info.md)
+	- [Proyecto de nota a la Jurisdicción](proyecto.md)
 
 # Antecedentes
 
